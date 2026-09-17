@@ -19,7 +19,7 @@ Gosto de pegar um problema do dia a dia de uma empresa pequena e resolver com c√
 
 ## Ferramentas
 
-Python, SQL, JavaScript e TypeScript no dia a dia. FastAPI, Next.js, pandas, PostgreSQL, Supabase, Docker, Git e GitHub Actions nos projetos. Antes de programar pra web, automatizava planilhas com Excel VBA e Access.
+Linguagens: Python, SQL, JavaScript, TypeScript e VBA. Nos projetos usei FastAPI, Next.js, pandas, PostgreSQL, Supabase, Docker, Git e GitHub Actions. Tamb√©m automatizo planilhas com Excel VBA e Access.
 
 ## Contato
 
