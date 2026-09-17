@@ -23,4 +23,4 @@ Linguagens: Python, SQL, JavaScript, TypeScript e VBA. Nos projetos usei FastAPI
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/rafael-magalhaes-989a21350/) · [Portfólio](https://rafael-chagas-dev.vercel.app) · chagas.rafa@proton.me
+[LinkedIn](https://www.linkedin.com/in/rafael-chagas-magalhaes/) · [Portfólio](https://rafael-chagas-dev.vercel.app) · chagas.rafa@proton.me
